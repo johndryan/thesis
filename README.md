@@ -1,25 +1,42 @@
-Thesis Gateway Statement
-========================
+# Computation, Ritual and (Dis)Connection
 
-We live surrounded by objects that interface between our world and the realm of code. These ubiquitous objects embody the threshold between the strict structures of data and the fluid, complex nature of all that exists outside of the screen. I am fascinated by our subjective experiences of this technologically-mediated threshold, particularly at the point of interaction between the procedures of code and the idiosyncratic rituals and routines of the person. What occurs when we take the subjective, the peculiar and the personal and force them into rigid digital structures? How is the ‘cultural layer’ (Manovich, 2002) of these experiences affected, diluted or enhanced through their digital mediation?
+#### Thesis Statement of Interest — Working Draft — Week 1
 
-As a designer, maker and programmer working within this context, I design speculative interactions that provoke reexamination of our relationships with technology and design; questioning what it means to be human in an increasingly digitized and data-driven world. By distorting, inverting and recontextualizing the behavior of code and the behavior of the ‘user’, my work challenges the “narrow assumptions, preconceptions and givens” (Dunne & Raby, 2007) that exist in our everyday interactions.
+## Ritual + Connection
 
-Through reflecting on my recent work, I have identified three key areas of investigation which I will build upon during my thesis: (i) Code as Ritual, (ii) Interaction and Personal Ritual and (iii) Speculative Rituals from Computational Objects.
-Code as Ritual
---------------
-Code itself can be understood as ritual: a series of symbolic actions performed according to a prescribed order. Some of my recent projects have explored inverting and modifying this ritual structure of code. [Logicless Computing](http://johndryan.me/project/user_logic/) disrupted the procedural nature of code by requiring human users or behaviorally-programmed animals to supply the logic required at every step of a computational process. How does the human-computer relationship shift when code procedures become routines performed by a person? How does this relationship change when personal habits are played out in code or technological form? What distinctions do we make between the quality or character of machine error in contrast to human error? And how do these distinctions blur as code/user roles are inverted?
-Interaction and Personal Ritual-------------------------------
-For millennia, we’ve used rituals, stories and myths to understand and explain the incredibly complex world around us. [Coping Mechanisms](http://johndryan.me/project/coping_mechanisms/) embodied the neurotic habits of a competitive lock picker in the bespoke technological objects of his morning routine. This project became a means for me to question how technological rituals, patterns and routines provide us with meaning and identity at both an individual and societal level. How can our idiosyncratic rituals inform designed interactions that disrupt our increasingly ordered and systemized lives, introducing opportunities for meaning-making and serendipity?Speculative Rituals from Computational Objects
-----------------------------------------------
-Building on this work, I explored designing objects embedded with code, including: (a) algorithmically generated forms; and (b) embodied interactions that incorporate technical prototypes. [Between Moments](http://johndryan.me/project/between_moments/) used the everyday data of a deceased person’s life to create a parametric architectural form as a ritual space for remembering their life and all that can’t be captured through data. [P.A.U.S.E.S.](http://johndryan.me/project/pauses/) questioned the new rituals of the social networking space through a speculative product that autonomously interpreted and shared every physical activity and interaction. How might designed computational objects encourage reexamination of existing interactions? How might speculative rituals with interactive objects create new rituals of the digital age?
+For millennia, we’ve used ritual, story and myth to understand and explain the incredibly complex world around us. Rituals have connected us with our inner (embodied cognitive functions linked with intuition, memory and belief) and outer worlds (the larger communities, systems and landscapes we inhabit). Micro-habits and sub-routines provide comfort and control in the midst of the unknown, forming “a vast, often unseen universe of small rituals that accompany us through every waking hour of a day”. (Carey, 2007) Shared rituals provide the relational infrastructure for intimate personal relationships, everyday social interactions, and cultural and political institutions.
 
-My thesis research will bring together these three key ideas to explore the point of interface between the digital and the personal as a place of ritual both in the interaction for the user but also in the ritual nature of code itself. My research will involve designing ritual interactions with computationally informed, derived or driven objects in order to subvert and recontextualize existing rituals and create new ones.
+## Code == Ritual
 
-My design methodology is inspired by speculative technology-based practices including [BERG](http://berglondon.com), [Near Future Laboratory](http://nearfuturelaboratory.com), [LUST](http://www.lust.nl), [Lukas Franciszkiewicz](http://frnkwz.de), [Jürg Lehni](http://lehni.org) and [Marc Owens](http://www.marcowens.co.uk). I employ both centripetal and centrifugal modes of design research as described by Rosenberg (2000), using explorative methods that encourage a dialogue between the “constructive and destructive” or “rational and irrational” elements of the creative process. My methods of making include code and programming; mapping, diagraming and visualizing objective and subjective ‘data’; procedural model- making; creating fictional worlds and scenarios; and technical prototyping.
+I am fascinated by the parallels between ritual and code. Both can be described as a series of symbolic actions performed according to a prescribed order. Both technical protocols and shared rituals evolve, becoming codified over time. In a similar manner to the reuse of structured blocks of code in computing, we are cognitively hard-wired to form, and find meaning in, repeated ritualistic behaviours.
+
+## Connected_Objects{};
+
+Objects have long played a central role in our individual and collective rituals—connecting us with our spatial surroundings—but new computationally-driven and -derived objects are connecting us in new ways. Ubiquitous objects that interface between our world and the realm of code are providing us with new ways to connect with (and disconnect from):
+
+- ourselves (online counselling, confessional iPhone apps)
+- communities (social networking, new social rituals)
+- our surroundings (geolocation, new digital layers to the city)
+- larger systems and structures (the state, media, commerce)
+
+Rituals that have previously connected us are now evolving to take place in this digital space. I am fascinated by our subjective experiences of this technologically-mediated threshold, particularly at the point of interaction between the procedures of code and the idiosyncratic rituals and routines of the person.
+
+## New Array[] = Research_Questions[];
+
+- What new rituals are emerging from the ubiquitous computational interactions that we now experience?
+- What occurs when we take the subjective, the peculiar and the personal and force them into rigid digital structures?
+- How do technological rituals, patterns and routines provide us with meaning and identity at both an individual and societal level?
+- How can our idiosyncratic rituals inform designed interactions that disrupt our increasingly ordered and systemized lives, introducing opportunities for meaning-making and serendipity?
+- Why do we cling to odd rituals that seem to make no sense? What are the idiosyncratic interactions that occur or might occur with technology in a similar way?
+- What do the nervous ticks and anxious compulsive habits of the digital era look like?
+- How is computational connectedness transforming our rituals and routines of movement in the city?
+- How might ritual interactions inform interactions with technology that are more experiential/holistic/sublime?
+- How might such interactions provoke reexamination of our relationships with technology and design, encouraging questioning of what it means to be human in an increasingly digitised and data-driven world?
+
+## if (this.context) then Make();
+
+As a designer, maker and programmer working in this context, my thesis research will bring together the key ideas outlined above to explore the point of interface between the digital and the personal as a place of ritual both in the interaction for the user but also in the ritual nature of code itself. My research will involve designing ritual interactions with computationally informed, derived or driven objects in order to subvert and recontextualize existing rituals and create new ones. I want to explore new modes of (re-/dis-)connection through distorting, inverting and recontextualizing the behavior of code and the behavior of the ‘user’.
 
 - - -
 
-[Posted 14 April 2012](http://blog.johndryan.me/post/21397485396/thesis-gateway-statement)
-
-Also see: [video of Thesis Gateway presentation](http://blog.johndryan.me/post/25479794256/thesis-gateway-proposal)
+[Posted 14 September 2012](http://blog.johndryan.me/post/31607044957/computation-ritual-and-dis-connection)
