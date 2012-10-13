@@ -21,4 +21,5 @@ My design methodology is inspired by speculative technology-based practices incl
 - - -
 
 [Posted 14 April 2012](http://blog.johndryan.me/post/21397485396/thesis-gateway-statement)
-[View video of Thesis Gateway presentation](http://blog.johndryan.me/post/25479794256/thesis-gateway-proposal)
+
+Also see: [video of Thesis Gateway presentation](http://blog.johndryan.me/post/25479794256/thesis-gateway-proposal)
