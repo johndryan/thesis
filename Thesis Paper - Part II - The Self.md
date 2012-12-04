@@ -82,11 +82,11 @@ Deleuze's comments highlight an important point; we can no longer in these conte
 
 ## Relevant Work from Artists and Designers
 
--{EDIT NOTE: I will brief summarise of a number of works which I feel are relevant to this section of the paper}-
+*{EDIT NOTE: I will brief summarise of a number of works which I feel are relevant to this section of the paper}*
 
 - Face Substitution — (Kyle McDonald and Arturo Castro) Using face tracking and color interpolation to replace faces, in real-time video.
 - Reface [Portrait Sequencer] — (2007: Golan Levin and Zachary Lieberman) is a surreal video mash-up that composes endless combinations of its visitors' faces.
--{EDIT NOTE: Add other two from blog}-
+*{EDIT NOTE: Add other two from blog}*
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 

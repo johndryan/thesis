@@ -82,11 +82,11 @@ What is present or lacking in these exisintg models? How are these examples rele
 
 ## Relevant Work from Artists and Designers
 
--{EDIT NOTE: I will brief summarise of a number of works which I feel are relevant to this section of the paper}-
+*{EDIT NOTE: I will brief summarise of a number of works which I feel are relevant to this section of the paper}*
 
 - Listening Post is an art installation by Mark Hansen and Ben Rubin that culls text fragments in real time from thousands of unrestricted Internet chat rooms, bulletin boards and other public forums. The texts are read (or sung) by a voice synthesizer, and simultaneously displayed across a suspended grid of more than two hundred small electronic screens.
 - BIT.FALL (Julius Popp) pumps liquid into a 45-meter long tube on a wall. A software program sets out a pattern which only at certain points forms readable forms or letters which then disintegrate into chaos again.
--{EDIT NOTE: Add other two from blog}-
+*{EDIT NOTE: Add other two from blog}*
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
