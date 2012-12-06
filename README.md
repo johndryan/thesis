@@ -1,5 +1,5 @@
 # Algorithmic Collectivism
-## Mediated-me: Hijacking the Persistent, Collocated Self in the Algorithmic Collective	
+## Multiplexing the Persistent, Collocated Self in the Algorithmic Collective	
 
 Read the latest version of my thesis paper:
 
