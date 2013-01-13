@@ -4,4 +4,4 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Conclusion to be added, including details of proposed project(s).
+Conclusion to be added here!
