@@ -1,6 +1,9 @@
-# Thesis Paper: Draft v5: Work-in-Progress
+# Individualism 2.0
+## Experiencing a Social Web Beyond Individualism
 
-Read the latest version of my thesis paper:
+Thesis Paper. Version 1.0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - [Part I - Introduction](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20I%20-%20Introduction.md#readme)
 - [Part II - Individualism](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20II%20-%20Individualism.md#readme)
@@ -9,5 +12,6 @@ Read the latest version of my thesis paper:
 - [Part V - Conclusion](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20V%20-%20Conclusion.md#readme)
 - [Annotated Bibliography](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20References.md#readme)
 
-Add note on format: github, possibility of collective authorship, 
-Also link to Google Docs / third party collaborative text editing?
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+A note on format: this paper is hosted on GitHub so that it might collective authored. If you have any responses, edits, or disagreements, please fork this repository and submit your edits as a pull request.

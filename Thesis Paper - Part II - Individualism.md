@@ -1,7 +1,6 @@
-
 # Individualism
 
-Individualism is "a mode of life in which the individual pursues his own ends or follows out his own ideas" (Oxford English Dictionary). This ethical egoism (that moral agents ought to do what is in their own self-interest) is a key element in the Western capitalist cultural systems. 
+Individualism is "a mode of life in which the individual pursues his own ends or follows out his own ideas." (Oxford English Dictionary) This ethical egoism (that moral agents ought to do what is in their own self-interest) is a key element in the Western capitalist cultural systems. 
 
 Modern philosophy, emerging during the Enlightenment, sought to distinguish the individual from society, particularly in the work of key thinkers such as Hobbes and Locke. The freedom to understand one's own reality, determine one's own future and decide about one's own beliefs, brought a liberation from existing religious, class, and other social categories. Individualism was central to the emerging dominant economic system of capitalism—a key reason why it has become so fundamental.
 
