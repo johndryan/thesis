@@ -2,7 +2,7 @@
 
 I believe that designing tactical responses to the strategic individualism of the contemporary web is of particular importance as the dominant networks expand beyond the screen into the objects surrounding us and the spaces we inhabit.
 
-> "Objects and places are the next targets for aggregation into the digital network. As networks increasingly pervade the nooks and crannies of physical space through portable objects and place-based infrastructure, we now have opportunities for an always-on sense of networked connectivity, and a layering of presence in various physical and online places." (Ito, 2008, p12)
+> "Objects and places are the next targets for aggregation into the digital network. As networks increasingly pervade the nooks and crannies of physical space through portable objects and place-based infrastructure, we now have opportunities for an always-on sense of networked connectivity, and a layering of presence in various physical and online places." (Ito, 2008, p 12)
 
 As the Internet moves beyond Web 2.0, towards the Internet of Things—which sees objects and places embedded with networked computing technology—there lies the opportunity to either more deeply embed this technological individualism, or to offer alternatives. As the social moves into shared objects and spaces, there is exciting potential in interactions that are not limited to *my* device and *your* device, *my* screen and *your* screen; the possibility of an alternative social of truly collective, collaborative networked objects and spaces.
 

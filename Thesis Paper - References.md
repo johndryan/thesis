@@ -1,18 +1,39 @@
-# REFERENCES
+# Bibliography
 
-- Castells, Manuel. "The Popular Uprisings in the Arab World Perhaps Constitute the Most Important Internet-led and Facilitated Change." Interview by Jordi Rovira. Open University of Catalonia. N.p., Feb. 2011. Web. 23 Nov. 2012. <http://www.uoc.edu/portal/en/sala-de-premsa/actualitat/entrevistes/2011/manuel_castells.html>.
-- Coleman, Gabriella. "Our Weirdness Is Free." Triple Canopy. N.p., 13 Jan. 2012. Web. 23 Nov. 2012. <http://canopycanopycanopy.com/15/our_weirdness_is_free>.
-- Davis, Jenny. "Structuring Identity Prosumption." Cyborgology. N.p., 27 Nov. 2012. Web. 30 Nov. 2012. <http://thesocietypages.org/cyborgology/2012/11/27/structuring-identity-prosumption/>.
-- Dean, Jodi. Democracy and Other Neoliberal Fantasies: Communicative Capitalism and Left Politics. Durham: Duke UP, 2009. Print.
-- Deleuze, Gilles. "Postscript on the Societies of Control." October 59 (Winter, 1992): 3-7. Print.
-- Freud, Sigmund. Civilization and Its Discontents. London: L. & Virginia Woolf at the Hogarth [etc., 1930. Print.
-- Horning, Rob. "Hi Haters!" The New Inquiry. N.p., 27 Nov. 2012. Web. 30 Nov. 2012. <http://thenewinquiry.com/essays/hi-haters/>.
-- Jurgenson, Nathan. "Digital Dualism versus Augmented Reality." Cyborgology. N.p., 24 Feb. 2011. Web. 20 Nov. 2012. <http://thesocietypages.org/cyborgology/2011/02/24/digital-dualism-versus-augmented-reality/>.
-- Jurgenson, Nathan. "Towards Theorizing an Augmented Reality." Sociology Lens. N.p., 5 Oct. 2009. Web. 20 Nov. 2012. <http://thesocietypages.org/sociologylens/2009/10/05/towards-theorizing-an-augmented-reality/>.
-- Lifton, Robert Jay. The Protean Self: Human Resilience in an Age of Fragmentation. New York, NY: Basic, 1993. Print.
-- Meyrowitz, Joshua. No Sense of Place: The Impact of Electronic Media on Social Behavior. New York: Oxford UP, 1985. Print.
-- Meyrowitz, Joshua. "The Rise of Glocality: New Senses of Place and Identity in the Global Village." A Sense of Place: The Global and the Local in Mobile Communication. Ed. János Kristóf. Nyíri. Wien: Passagen, 2005. 21-30. Print.
-- Roberts, Robert. "Emotions in the Christian Tradition." Stanford Encyclopedia of Philosophy. Ed. Edward N. Zalta. N.p., Summer 2011. Web. 30 Nov. 2012. <http://plato.stanford.edu/archives/sum2011/entries/emotion-Christian-tradition/>.
-- Turkle, Sherry. Alone Together: Why We Expect More from Technology and Less from Each Other. New York: Basic, 2011. Print.
-- Varnelis, Kazys. "The Rise of Network Culture." Varnelis.net. N.p., 27 Jan. 2007. Web. 7 Nov. 2012. <http://varnelis.net/the_rise_of_network_culture>.Cited as author's conclusion to the book Networked Publics, forthcoming 2012
-- Williams, Robert W. "Politics and Self in the Age of Digital Re(pro)ducibility." Fast Capitalism 1.1 (2005): n. pag. Fast Capitalism. 2005. Web. 30 Nov. 2012. <http://www.uta.edu/huma/agger/fastcapitalism/1_1/williams.html>.
+Coleman, G. (2012) *Our Weirdness Is Free*. [online] Available at: http://canopycanopycanopy.com/15/our_weirdness_is_free [Accessed: 23 Nov. 2012].
+
+De Certeau, M. (1984) *The Practice of Everyday Life*. Berkeley: University of California.
+
+Dean, J. (2009) *Democracy and Other Neoliberal Fantasies: Communicative Capitalism and Left Politics*. Durham, NC: Duke University Press Books.
+
+Deleuze, G. (1992) *Postscript on the Societies of Control*. October, 59 p.3-7.
+
+Eleey, P. (2003) Mark Hansen and Ben Rubin. *Frieze*, (75), Available at: http://www.frieze.com/issue/review/mark_hansen_and_ben_rubin/ [Accessed: 7 Jan 2013].
+
+Freud, S. (1930) *Civilisation and Its Discontents*. London:.
+
+Galloway, A. (2004) *Protocol: How Control Exists after Decentralization*. Cambridge, MA: The MIT Press.
+
+Grosser, B. (2012) *Demetricator*. [online] Available at: http://bengrosser.com/projects/facebook-demetricator/ [Accessed: 7 Jan 2013].
+
+Hansen, M. and Rubin, B. (2001) *Listening Post*.
+
+Harvey, D. (2005) *A Brief History of Neoliberalism*. Oxford: Oxford University Press.
+
+Horning, R. (2012) Hi Haters!. *The New Inquiry*, Available at: http://thenewinquiry.com/essays/hi-haters [Accessed: 30 Nov 2012].
+
+Ito, M. (2008) Introduction. In: Varnelis, K. eds. (2008) *Networked Publics*. 1st ed. Cambridge, MA: The MIT Press, p.1-14.
+
+Lanier, J. (2011) *You Are Not a Gadget: A Manifesto*. New York: Vintage.
+
+Macpherson, C. (1962) *The Political Theory of Possessive Individualism*. Oxford: Clarendon Press.
+
+Manovich, L. (2009) The Practice of Everyday (Media) Life: From Mass Consumption to Mass Cultural Production?. *Critical Inquiry*, 35 (2), p.319-331.
+
+Treanor, P. (2005) *Neoliberalism: origins, theory, definition*. [online] Available at: http://web.inter.nl.net/users/Paul.Treanor/neoliberalism.html [Accessed: 1 Jan 2013].
+
+Varnelis, K. (2008) Conclusion: The Meaning of Network Culture. In: Varnelis, K. eds. (2008) *Networked Publics*. 1st ed. Cambridge, MA: The MIT Press, p.145-163.
+
+Williams, R. (2005) Politics and Self in the Age of Digital Re(pro)ducibility. *Fast Capitalism*, 1 (1), Available at: http://www.uta.edu/huma/agger/fastcapitalism/1_1/williams.html [Accessed: 30 Nov. 2012].
+
+Woods, J. (2012) *Why User-Centered Design is Not Enough*. [online] Available at: http://www.core77.com/blog/articles/why_user-centered_design_is_not_enough_by_john_wood_23465.asp [Accessed: 2 Jan 2013].

@@ -1,10 +1,10 @@
 # The Strategies of Individualism Inherent in the Social Web
 
-> "The design of software builds the ideology into those actions that are the easiest to perform on the software designs that are becoming ubiquitous." (Lanier, 2010, p.47)
+> "The design of software builds the ideology into those actions that are the easiest to perform on the software designs that are becoming ubiquitous." (Lanier, 2010, p 47)
 
 The contemporary Internet has become dominated by the presence of social networks. These networks, also referred to as social media, exist as online services or sites that facilitate social interrelations among individuals in networks of varying scales. Predominantly, they feature discrete nodes which represent each individual (e.g. a profile) accompanied by various services which join these nodes as social connections, most often around the 'sharing' of text, links and other media. They are predominately web-based tools, but increasingly exist as mobile applications as well. The social networking landscape is dominated by corporate giants such as Facebook, Twitter and Google. 
 
-The presence of these social networks could be understood as an attempt to fill the gap between "a seductive but alienating possessive individualism on the one hand and the desire for a meaningful collective life on the other." (Harvey, 2007, p69)  Fundamentally however, these social networking services are individual-centred; they place the individual user at the centre of their own bespoke reality. Why the individual and not the collective? Surely the collective is of primary importance in any understanding of the *social*. Should the social be limited to a world that revolves around the self?
+The presence of these social networks could be understood as an attempt to fill the gap between "a seductive but alienating possessive individualism on the one hand and the desire for a meaningful collective life on the other." (Harvey, 2007, p 69)  Fundamentally however, these social networking services are individual-centred; they place the individual user at the centre of their own bespoke reality. Why the individual and not the collective? Surely the collective is of primary importance in any understanding of the *social*. Should the social be limited to a world that revolves around the self?
 
 The *faux social* of these networks serves to shape the individual into a more ideal candidate for serving and fuelling the market. At the same time, the network is profiting from their presence. This explicit redefining of the social into that which is consumed by the individual lies at the heart of the *strategies* of the social networks. 
 
@@ -18,13 +18,13 @@ The strategies at play include commodification of the individual, User-Centred D
 
 How is the *value* of the individual emphasised and interpreted through social networking sites? The individual point of view, although it would seem to lie at the centre of this new social space, is not a priority of the inherent ideology; it is a means to an end. The true value of the individual lies not in their contribution, but in their market value. Although the apparent purpose of these tools may be expressed as social connection, empowering the individual through the ability to communicate, these institutions are first answerable to their shareholders and investors. The line connecting each node in the social network is *the (financial) bottom line*.
 
-> "Since the companies that create social media platforms make money from having as many users as possible visit them (they do so by serving ads, by selling data about usage to other companies, by selling add-on services, and so on), they have a direct interest in having users pour as much of their lives into these platforms as possible." (Manovich, 325)
+> "Since the companies that create social media platforms make money from having as many users as possible visit them (they do so by serving ads, by selling data about usage to other companies, by selling add-on services, and so on), they have a direct interest in having users pour as much of their lives into these platforms as possible." (Manovich, 2009, p 325)
 
 As Manovich describes, these networks are funded commercially, primarily through advertising and selling collated user information. The individual is commodified, literally, as their  data is analysed and packaged for advertisers. Earlier in Web history, bloggers began to use advertising to make money from their self-generated content; in the social media model, the network makes money from user-generated content.
 
 The free-market self who inhabits the social network, constructing and expressing themselves there, is constantly offered, through advertising, the opportunity to purchase a better self, upgrade their identity, and accessorise their lifestyle with select, relevant consumer products:
 
-> The con­sum­er fig­ures the pos­si­bil­i­ty of en­joy­ment prom­ised by neoliberalism. Con­sump­tion pro­vides the ter­rain with­in which my iden­ti­ty, my lifestyle, can be con­structed, pur­chased, and made over. Yet con­sump­tion is more than a ter­rain—the con­sum­er is com­manded to en­joy, com­pelled by the im­pos­si­ble de­mand to do more, be more, have more, change more. (Dean)
+> The consumer figures the pos­si­bil­i­ty of en­joy­ment prom­ised by neoliberalism. Con­sump­tion pro­vides the ter­rain with­in which my iden­ti­ty, my lifestyle, can be con­structed, pur­chased, and made over. Yet con­sump­tion is more than a ter­rain—the con­sum­er is com­manded to en­joy, com­pelled by the im­pos­si­ble de­mand to do more, be more, have more, change more. (Dean, 2009, 67)
 
 I consume, therefore I am.
 
@@ -52,7 +52,7 @@ In fact, one can curate the community around oneself to be sheltered entirely fr
 
 Social networking provides an experience of the collective, of the social, that gives the individual ultimate curatorial control. This technological narcissism might be better described as solipsistic rather than social.
 
-> "Narcissism is a symptomatic trait of self-identity in the phase of modernity. Consumer capitalism perpetuates the flawed project of self-love which encourages individualism and discourages ‘giving to others’." (Giddens 1991: 173)
+> "Narcissism is a symptomatic trait of self-identity in the phase of modernity. Consumer capitalism perpetuates the flawed project of self-love which encourages individualism and discourages ‘giving to others’." (Giddens, 1991, p 173)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -66,15 +66,15 @@ There is a false freedom in these networks, that doesn't allow a free individual
 
 Facebook's multiple—choice identities, demographic database fields and ubiquitous *'Status Update'* textboxes can be interpreted as equivalent to Foucault's *enclosures that mould* and—even more so—Deleuze's *controls that modulate* people into data ‘dividuals’.
 
-> "The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become 'dividuals,' and masses, samples, data, markets, or 'banks…' The disciplinary man was a discontinuous producer of energy, but the man of control is undulatory, in orbit, in a continuous network." (Deleuze, 1992, p6)
+> "The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become 'dividuals,' and masses, samples, data, markets, or 'banks…' The disciplinary man was a discontinuous producer of energy, but the man of control is undulatory, in orbit, in a continuous network." (Deleuze, 1992, p 6)
 
-Gal­lo­way (2004), discussing Deleuze's *societies of control*, explicitly describes computer protocols as "mechanisms of contemporary control" in so far as they "encode appropriate behaviour in advance" (Dean, 2009, p185). These computational "codes, techniques, and arrangements… distribute and manage" the individual within the social network.
+Gal­lo­way (2004), discussing Deleuze's *societies of control*, explicitly describes computer protocols as "mechanisms of contemporary control" in so far as they "encode appropriate behaviour in advance" (Dean, 2009, p 185). These computational "codes, techniques, and arrangements… distribute and manage" the individual within the social network.
 
 Particularly with the ideological focus I previously outlined, we can understand the system from a Deleuzian perspective as transforming us into *dividuals* by breaking us down to our base component data elements, before recompiling us into 'useful' demographic groups for economic purposes.
 
-> The "dividual" —a physically embodied human subject that is endlessly divisible and reducible to data representations via the modern technologies of control, like computer-based systems. (Williams)
+> The "dividual" —a physically embodied human subject that is endlessly divisible and reducible to data representations via the modern technologies of control, like computer-based systems. (Williams, 2005)
 
-The particular ideological individualism that is promoted and encouraged, enables this dissolution of the self to constituent elements, to be reformed not as individuals but as demographics, ones in which we are powerless. In this way, the ideological individualism of these networks has a normalising effect. The *standardised presences* of social networks transform individuality into a mode of conformity. The social seb becomes not a medium for individual expression, but an engine for assimilation; an ironic assimilation which is fuelled by emphasising the individual. This entire process has not been forced upon us; we have consented entirely throughout.
+The particular ideological individualism that is promoted and encouraged, enables this dissolution of the self to constituent elements, to be reformed not as individuals but as demographics, ones in which we are powerless. In this way, the ideological individualism of these networks has a normalising effect. The *standardised presences* of social networks transform individuality into a mode of conformity. The social becomes not a medium for individual expression, but an engine for assimilation; an ironic assimilation which is fuelled by emphasising the individual. This entire process has not been forced upon us; we have consented entirely throughout.
 
 > For Deleuze, the data gathered on us through the new technologies did not necessarily manifest our irreducible uniqueness. Rather, the very way that the data can be gathered about us and then used for and against us marks us as dividuals… For Deleuze, such technologies indicate that we as discrete selves are not in-divisible entities; on the contrary, we can be divided and subdivided endlessly.  (Williams, 2005)
 
