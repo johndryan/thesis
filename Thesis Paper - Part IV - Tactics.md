@@ -1,101 +1,71 @@
-# 3 - POTENTIAL + PROPOSAL
+# Tactics: Beyond an Individualistic Social Web
 
-The Internet is a place ideally suited to an alt experience of the social, one that is more collective than individual-focussed.
+> "In a world where we post the majority of our personal data online, and states and corporations wield invasive tools to collect and market the rest, there is something profoundly hopeful in… effacement of the self… [It] enables participants to practice a kind of individuality beyond… possessive individualism." (Coleman, 2012)
 
-## Perceptions of Being Part of Something Bigger
-Individualism, as described in the previous section, obviously influences our perception and understanding of this. Even though the web is, as I've argued, a place where a particular ideological understanding of the Individual is perpetuated, it is also one sphere where people have a sense of being part of something larger than themselves. That is one of the most exciting aspects about the potential of the Internet for me.
+In the context of the dominant individualistic ideology of the social web, I am primarily interested in exploring tactics for the "effacement of the self", designing technologically-mediated social experiences and spaces that offer alternatives to these self-centric interactions. My work seeks to disrupt the user from their role as such, defamiliarising the individualism of User-Centered Design and offering alternatives for contemporary connected social spaces. In response to the *faux social* of such social networks, how might other technological expressions or experiences of the collective provide an alternative to the possessive individualism of neoliberalism?
 
-On the Internet, people perceive themselves as being part of online communities in various forms (be they ones that may be uniquely framed with them at the centre). The Internet is in many ways perceived as the ultimate 'public sphere'.[<sup>1</sup>](#1)
+De Certeau (1984, p37) defines "tactics" as ways to artfully "use, manipulate, and divert" the cultural products and spaces imposed by an external power. He describes tactics that trace "indeterminate trajectories that are apparently meaningless, since they do not cohere with the constructed, written, and prefabricated space through which they move." (1984, p35) The city, which cannot be tactically reshaped through physical reorganisation, can be adapted to one's needs by choosing how to move through it. In contrast, network architecture and the format of web-connected client devices allows for a certain amount of adapting and restructuring of its constituent elements. In the context of the web, these social spaces can be broken down into multiple elements to be rebuilt and reshaped, through both endorsed methods—APIs (application programming interfaces), metadata, web feeds and similar protocols—and non-endorsed approaches—hacks, browser overrides, and html scraping.
 
+What are the collective *tactics* that might be deployed within these individual-focussed *strategies*? I will outline two tactical approaches, which can be understood as alternative models for design, that leverage the structure and protocols of these social spaces to subvert, adapt and offer alternative ways to inhabit them. They are built on two  conceptions of the Self: diffusion and multiplexing. In interactions that obscure the Individual, either amidst their own data fragments, or amidst the collective, there lies the potential to encourage and enable an alternative approach.
 
-Numerous works seek to explore the collective nature of the web
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-work which seeks to move away from the marketplace neoliberal agendas/values:
-## Existing works: Listening post / bit.fall / etc.
-Illustrate the net, but don't make us part of it?
-work which seeks to create an experience with the collective / represent the "collective consciousness"
+## Diffusion: Embracing the Fragmented Dividual
 
-Ben grosser's demetricator, explicitly seeks to remove the market language of Facebook through removing numbers…
+Diffusion sees the fragmented individual dispersed across the network: embracing the Deleuzian, subdivided dividual as a means to render the individual "unmappable." Staying within the defined boundaries of the social network, this approach designs tools and techniques that aim to hide or obscure the individual, or liberate the *user* from market-oriented consumerism. By welcoming this dissolution of the individual into multiple data elements, we subvert the strategic data-gathering systems that mark us as dividuals.
 
-My projects: Facebook anonymizer. 
+Ben Grosser's [Demetricator](http://bengrosser.com/projects/facebook-demetricator/) explicitly seeks to remove one important element in the market ideology of Facebook through removing the metrics constantly displayed to the user that "measure and present our social value and activity, enumerating friends, likes, comments, and more." It is a web browser add-on that hides these metrics: '36 people like this' becomes 'people like this' and 'having 105 friends' becomes simply 'having friends.'
 
+> "Demetricator invites Facebook’s users to try the system without the numbers, to see how their experience is changed by their absence. With this work I aim to disrupt the prescribed sociality these metrics produce, enabling a network society that isn’t dependent on quantification." (Grosser, 2012)
 
-In my work, I want to take this further through creating technologically-mediated social spaces that interface with the collective, and not between multiple individuals. In this network, the smallest node is not individual but a collective.
+I developed a similar project shortly before discovering Grosser's work which also uses javascript within the browser to affect Facebook's interface. [Facebook Anonify](http://blog.johndryan.me/post/34657898214/facebook-anonify-a-quick-experiment-to-remove) aims to disassociate the post and data fragments from the Individuals who posted them by removing all profile photographs and replacing all user's name with their numeric user id.
 
-Other cultural references?!
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> "I feel that I am part of a larger thing, the Net, the Web. The world. It becomes a thing to me, a thing I am part of. And the people, too, I stop seeing them as individuals, really. They are part of this larger thing." — Interview with college student (Turkle 168)
+## Multiplexing the Individual in the Collective
 
--> "The digital hive is growing at the expense of individuality." (Lanier pp)-
+Multiplexing is a technical term used in telecommunications and computer networks that "enable[s] (a line) to carry several signals simultaneously" (Oxford English Dictionary) by combining multiple signals into one over a shared medium. I see *multiplexing* as a useful metaphor for collective experience that transcends the individual. Collective rituals have a rich history spanning many cultures—musical gatherings, protest crowds, religious congregations, collective storytelling—and can provide alternative models for this multiplexing of the self in the social. Such rituals offer communal, egalitarian, and immersive models for designing collective experiences.
 
+I see an opportunity for an experience of the networked individual that is completely engulfed within the collective. In my work, I seek to create technologically-mediated social spaces that interface with the collective; multiplexing the individual in collective experiences and entities which see the collective node take precedence over the individual. 
 
-Systems? -This idea of a system existing on a individual and collective level. With recent cultural shifts towards individualism, could be an interesting way to explore ethical egoism and ethical altruism. I am also interested in the way that a system exists on two interdependent levels; on an individual and collective level—"interdependent components forming an integrated whole." We exist concurrently as individuals and as nodes in networks at multiple levels: family, community, regional, national. Systems are at play from the micro—cells that make up the organs that make up our bodies—to the macro—the societies that make up humanity which itself is part of a global ecosystem.-
+A pertinent example lies in the *nomadic resistant model* of hacker culture, which Galloway (2004) describes. These tactical collective entities, such as Anonymous exist inside the strategic, standardised presences of the web's protocols, social networks and communication channels. Individuals coalesce around a specific action or problem under the Anonymous banner creating a resistance that originates from many different places. Once complete, the collective dissolves.
 
--Due to the structures of the web, but particularly because of inherent ideological agendas, we are primarily dealt with as collectives (consumed as *dividuals* into them), although rarely addressed as such. IS there another way to understand/know/experience this. Web users increasingly perceive themselves as part of a larger 'online community'.-
+Numerous designers and artists have also engaged with ways of representing and interacting with the Internet in a more collectivising way.
 
-MODELS? Anonymous, etc.?
+[Listening Post](http://www.earstudio.com/projects/listeningpost.html) by Mark Hansen and Ben Rubin, is a one such example. It is an installation that pulls text fragments mentioning the phrase "I am…" from thousands of chat rooms in real time. These extracts are then displayed on a suspended grid of over 200 small liquid-crystal displays, while at the same time being read by a computer-generated voice. It offers an interesting contrast between the literal individualism of these "I am" conversational extracts and the collective experience of engaging with them all simultaneously. Its format offers both a dissolution of the text from its author and original context, along with multiplexing it into a coherent collective whole.
 
-But I also see a positive potential in this. What about the joy of perceiving oneself in the collective? Perhaps the experience  is desirable? Maybe this multi-Self-fragmentation offers some new collective intimacy? Perhaps there is a new Collaborative Self to be cultivated: one which asks the collective to form an opinion for us: thinking out-loud and online; reflecting in the cloud.
+> "At a stroke Listening Post fulfils the promise of most Internet-based art, affecting a simultaneous collapse and expansion of time and space with implications ranging from notions of private and public space to individual thought and its role in group dynamics." (Eleey, 2003)
 
-**Furthermore, in this obscuring of the Self amidst the fragments, there lies the potential to encourage and enable a kind of individuality beyond possessive Western Individualism.** 
+What Listening Post doesn't offer is any interaction that enables the viewer themselves to contribute or participate in the collective. [PRIZM](http://blog.johndryan.me/post/38054215831/prizm) was a project I undertook to create a multiplexed self, in way that was built directly on user input.
 
-leveraging dividuals:
+-Facebook and Anonymous sit at two ends of a spectrum of collective experiences online: Facebook is a highly structured space where the Individual is transparent and obvious; Anonymous, on the other hand, is an unstructured, rhizomatic network where the Individual is obscured in anonymity.-
 
-> "Instead of whole individuals, we are constituted in multiple micro-publics, inhabitants of simultaneously overlapping telecocoons, sharing telepresence with intimates in whom we are in near-constant touch, members of… clustered demographic units." (Varnelis)
+-I am proposing a highly structured network (a la Facebook), but one where the Individual is obscured; they remain, in a way, anonymous. The smallest entity, or node, in this network is a cluster of Individuals; an algorithmic representation of the collective individual 'members' of that cluster.-
 
+The project sought to explore how individuality might be designed-out of these systems; creating an experience of the individual online that is completely engulfed within the collective. In PRIZM, the smallest node is a cluster of individuals; an algorithmic representation of its collective ‘members’. Central to this algorithmic collectivism is inhibiting the ability to directly represent yourself or perceive the individual other. Without the ability to relate as an individual, the capacity to influence directly is quashed; each person contributes to the whole, but can’t explicitly direct or represent the whole group.
 
-Individual-user focussed design approach, Woods suggests multi-path… see Core77 article METADESIGN
+In obscuring the Self in the multiplexed collective, does there lie the potential to encourage and enable a kind of individuality beyond possessive Western Individualism?
 
+PRIZM's interface takes a selection of personal information through a custom interface which includes a magnetic card swipe (for Driver’s License and other card information), a camera with facial recognition, a custom fingerprint scanner (webcam and threshold image-processing) and a keyboard for text data entry. Over the course of the project’s exhibition, data was collected from visitors. A second screen alongside the input interface displayed continually generated collective identities from the submitted data.
 
+Where the project fell short, was in using the ‘language’ of identity systems I had used in the project, didn’t necessarily align with the philosophical aims of my thesis. The ID cards, fingerprints and other identity systems that I’d chosen to use in this project, are obviously more associated with systems of power and division rather than some new more utopian experience of collective identity.
 
-Durkheim's Collective consciousness, not in a hive mind, but "a set of shared beliefs and moral attitudes which operate as a unifying force within society."
+### -Crowd-sourced Self-
 
-Translated as collective perception / awareness
+-A quick experiment in which I was literally playing with the idea of a Self constructed by a global network of others. I uploaded a series of my profile pictures from various social networks to Mechanical Turk and paid workers to write a short description, or bio, based on the photograph.-
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+-Profile pictures is an obvious first step, but what might remote others make of a Self based on their data? If they were supplied with the trails of evidence of Self we leave online: Amazon order history, Netflix viewings, etc.-
 
-# PROPOSAL
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> In a world where we post the majority of our personal data online, and states and corporations wield invasive tools to collect and market the rest, there is something profoundly hopeful in… effacement of the self… [It] enables participants to practice a kind of individuality beyond… "possessive individualism," defined as "those deeply internalized habits of thinking and feeling" whereby we view "everything around [us] primarily as actual or potential commercial property." (Varnelis)
+### The Experience of Losing Oneself in the Crowd
 
--Across the axes that I have outlined above, I see a fascinating complex, cohesive, and multiplexed[<sup>2</sup>](#2) self; an incredibly rich ground for research and design in this understanding of the digital-physical self.-
+One might ask, with this sacrificing of capability to perceive or represent oneself directly, why would anyone want to participate in such a system? Would the Individual limit them-self to experience the Collective? I think there is evidence in current systems for this limiting of self to partake in something. On Facebook, for example, you actively choose to sacrifice particular liberties (i.e. privacy, control) to be part of a larger collective experience. The user also, as previously discussed, limits how they are represented to the format and structures of Facebook.
 
-Why do I propose this?
+In trying to achieve a dissolution into a group that is not negative, I am primarily interested in the *experience* of the self in this collective setting. How can you interface as an individual through an interaction with the collective in which you lose yourself? Removing the individualistic self, what is it like to experience the shared or collective self? What freedom or escape might be possible from the agendas I've previously outlined? I'm interested in what the experience of connectedness might feel like, mediated through these technological interfaces.
 
-**In designing interactions with an Algorithmic Collective, I am interested in creating such experiences that might enable individuals to feel this "oceanic" connectedness with the collective.** See more in Part IV of last draft
+Freud uses the term "oceanic feeling" in an attempt to define the psychological feeling of religion. A person experiences this emotion when they have a sense of being continuous with the rest of the universe. He describes it as “a feeling of an indissoluble bond, of being one with the external world as a whole” (12). He theorises that this experience of being connected beyond the self, is "a vestige of infantile consciousness prior to the time when the infant begins to distinguish himself from his human and non-human environment" (Roberts); a time before the self has formed for the infant. Might it be possible to experience something similar when interacting in a subversive, augmented reality that inhibits you from perceiving yourself—perhaps enabling moments of bypassing the limits of the self?
 
-redundant, decentralized, peer-to-peer
+In designing tactical interactions that enable dispersion or multiplexing of the individual, I am interested in creating such experiences that might enable individuals to feel this "oceanic" connectedness with the collective.
 
-<span id="2">Multiplexed Self</span> "In telecommunications and computer networks, multiplexing (also known as muxing) is a method by which multiple analog message signals or digital data streams are combined into one signal over a shared medium." ([Wikipedia](http://en.wikipedia.org/wiki/Multiplexing)) I see this as an apt metaphor for describing the persistent, co-located self. *{EDIT NOTE: Perhaps I will expand upon this in the main body of text? I've already added it to an updated paper title.}*
-
-I see an opportunity for an experience of the individual online that is completely engulfed within the collective; a social network without individuality.
-
-Facebook and Anonymous sit at two ends of a spectrum of collective experiences online: Facebook is a highly structured space where the Individual is transparent and obvious; Anonymous, on the other hand, is an unstructured, rhizomatic network where the Individual is obscured in anonymity. 
-
-I am proposing a highly structured network (a la Facebook), but one where the Individual is obscured; they remain, in a way, anonymous. The smallest entity, or node, in this network is a cluster of Individuals; an algorithmic representation of the collective individual 'members' of that cluster.
-
-#### De Certeau?
-
-What are the collective *tactics* that might be deployed within the individual-focussed/-enforcing/-empowering *strategies* of these networks?
-
-> Strategies are able to produce, tabulate, and impose these spaces… whereas tactics can only use, manipulate and divert [them]. (De Certeau, 30)
-
-##### "subverting them from within"
-
-How might one trace "indeterminate trajectories that are apparently meaningless, since they do not cohere with the constructed, written, and prefabricated space through which they  move." (De Certeau 35)
-
-> De Certeau makes a distinction between strategies used by institutions and power structures and tactics used by modern subjects in their everyday lives. The tactics are the ways in which individuals negotiate strategies that were set for them. (Manovich)
-> …  In other words, an individual can’t physically reorganize the city, but he or she can adapt it to his or her needs by choosing how to move through it. A tactic “expects to have to work on things in order to make them its own, or to make them ‘habitable.’”9
-
-> “Unlike the strategy, it [the tac- tic] lacks the centralized structure and permanence that would enable it to set itself up as a competitor to some other entity. . . . It renders its own activities an ‘unmappable’ form of subversion”
-
-Entities like Anonymous which are tactical collective entities existing inside the strategic, standardised presences of the web's protocols, social networks and communication channels.
-
-Has the tactical become strategic?
-
-Tactic: De Certeau defines “tactics” as ways to artfully “use, manipulate, and divert” the cultural products and spaces imposed by an external power.
-
-Do we lack direct presence? Benjamin's *aura* as we become reproducible and assessable to many?
-
-
-
+[Continue reading&rarr;](Thesis%20Paper%20-%20Part%20V%20-%20Conclusion.md#readme)
