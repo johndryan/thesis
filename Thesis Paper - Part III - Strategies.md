@@ -66,7 +66,7 @@ There is a false freedom in these networks, that doesn't allow a free individual
 
 Facebook's multiple—choice identities, demographic database fields and ubiquitous *'Status Update'* textboxes can be interpreted as equivalent to Foucault's *enclosures that mould* and—even more so—Deleuze's *controls that modulate* people into data ‘dividuals’.
 
-> "The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become 'dividuals,' and masses, samples, data, markets, or 'banks…' The disciplinary man was a discontinuous producer of energy, but the man of control is undulatory, in orbit, in a continuous network." (Deleuze, 1992, p 6)
+> "The numerical language of control is made of codes that mark access to information, or reject it. We no longer find ourselves dealing with the mass/individual pair. Individuals have become 'dividuals,' and masses, samples, data, markets, or 'banks…' The disciplinary man was a discontinuous producer of energy, but the man of control is undulatory, in orbit, in a continuous network." (Deleuze, 1992, p 5)
 
 Gal­lo­way (2004), discussing Deleuze's *societies of control*, explicitly describes computer protocols as "mechanisms of contemporary control" in so far as they "encode appropriate behaviour in advance" (Dean, 2009, p 185). These computational "codes, techniques, and arrangements… distribute and manage" the individual within the social network.
 
