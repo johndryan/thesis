@@ -1,5 +1,5 @@
 # Individualism 2.0
-## Experiencing a Social Web Beyond Individualism
+## Designing a Social Web Beyond Individualism
 
 Thesis Paper. Version 1.0
 
