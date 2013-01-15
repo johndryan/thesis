@@ -2,23 +2,23 @@
 
 **Coleman, G. (2012) *Our Weirdness Is Free*. May, 9.**
 
-Coleman is an anthropologist who researches hackers and digital activism. This paper explores the history, logic and ethos behind Anonymous, the hacktivist group. Her insight and theories about the group have been most useful in exploring an example of a networked collective consisting of multiple individuals that is decentralised, leaderless and anonymous 'membership'. In particular she identities Anonymous's agenda to counter the possessive capitalist individualism predominate on the web.
+Coleman is an anthropologist who researches hackers and digital activism. This paper explores the history, logic and ethos behind Anonymous, the hacktivist group. Her insight and theories about the group have been most useful in exploring an example of a networked collective, consisting of multiple individuals, that is decentralised, leaderless and has anonymous 'membership'. In particular she identities Anonymous's agenda to counter the possessive capitalist individualism predominant on the web.
 
 - - -
 
 **De Certeau, M. (1984) *The Practice of Everyday Life*. Berkeley: University of California.**
-De Certeau's important text examines how mass culture is individualised as we make it our on. Of particular relevance to this paper, is his distinction between what he identifies as strategies and tactics. He defines strategies as the methods and structures used by institutions to impose power, whereas tactics are the ways in which the individuals negotiates these structures, adapting them and making them "habitable". I understand this as particularly applicable when considering the strictly defined and controlled architecture of social networks, from the individualising schemas to the interface itself, and the ways in which we can—and do—negotiate these to make them our own.
+De Certeau's important text examines how mass culture is individualised as we make it our own. Of particular relevance to this paper is his distinction between what he identifies as strategies and tactics. He defines strategies as the methods and structures used by institutions to impose power, whereas tactics are the ways in which individuals negotiate these structures, adapting them and making them "habitable." I understand this as particularly applicable when considering the strictly defined and controlled architecture of social networks, from the individualising schemas to the interface itself, and the ways in which we can—and do—negotiate these to make them our own.
 
 - - -
 
 **Dean, J. (2009) *Democracy and Other Neoliberal Fantasies: Communicative Capitalism and Left Politics*. Durham, NC: Duke University Press Books.**
-Dean assess a number of ideologies and trends in contemporary political culture, but the chapters on technology and its relationship with neoliberalism were particularly applicable to my research. She coins the phrase "communicative capitalism" to describe what she see as a mix of consumerism and the privileging of the individual over the collective that has become predominant in social media and other similar spheres. 
+Dean assesses a number of ideologies and trends in contemporary political culture, but the chapters on technology and its relationship with neoliberalism were particularly applicable to my research. She coins the phrase "communicative capitalism" to describe what she sees as a mix of consumerism and the privileging of the individual over the collective that has become predominant in social media and other similar spheres. 
 
 - - -
 
 **Deleuze, G. (1992) *Postscript on the Societies of Control*. October, 59 p.3-7.**
 
-Deleuze describes transition from Foucault's "disciplinary societies" to what Deleuze calls "societies of control." In discussing the technologies of continuous control, he describes the concept of the "dividual"—the human individual now reduced and divided endlessly into data representations by computer-based systems. Rather than individual, the constituent data of the deconstructed dividual is what is of value in this contemporary capitalism. Deleuze's dividual is exemplified in the data-mining agendas of social networks.
+Deleuze describes a transition from Foucault's "disciplinary societies" to what he calls "societies of control." In discussing the technologies of continuous control, he describes the concept of the "dividual"—the human individual now reduced and divided endlessly into data representations by computer-based systems. Rather than individual, the constituent data of the deconstructed dividual is what is of value in this contemporary capitalism. Deleuze's dividual is exemplified in the data-mining agendas of social networks.
 
 - - -
 
@@ -30,13 +30,13 @@ I use this review of the Hansen's and Rubin's *Listening Post*, in referencing a
 
 **Freud, S. (1930) *Civilisation and Its Discontents*. London.**
 
-Freud examines the tensions between the individual and society, examining the contrasting forces of freedom and conformity. Early on, he uses the term "oceanic feeling" in an attempt to define the psychological feeling of religion. A person experiences this emotion when they have a sense of being continuous with the rest of the universe. He describes it as “a feeling of an indissoluble bond, of being one with the external world as a whole.” (1930) He theorises that this experience of being connected beyond the self, is "a vestige of infantile consciousness prior to the time when the infant begins to distinguish himself from his human and non-human environment" (Roberts); a time before the self has formed for the infant. In terms of the experience design of my work, I use this concept to ask howsomething similar might be experienced when interacting in a subversive, augmented reality that inhibits you from perceiving yourself—perhaps enabling moments of bypassing the limits of the self?
+Freud examines the tensions between the individual and society, examining the contrasting forces of freedom and conformity. Early on, he uses the term "oceanic feeling" in an attempt to define the psychological feeling of religion. A person experiences this emotion when they have a sense of being continuous with the rest of the universe. He describes it as “a feeling of an indissoluble bond, of being one with the external world as a whole.” (1930) He theorises that this experience of being connected beyond the self, is "a vestige of infantile consciousness prior to the time when the infant begins to distinguish himself from his human and non-human environment" (Roberts); a time before the self has formed for the infant. In terms of the experience design of my work, I use this concept to ask how something similar might be experienced when interacting in a subversive, augmented reality that inhibits you from perceiving yourself—perhaps enabling moments of bypassing the limits of the self?
 
 - - -
 
 **Galloway, A. (2004) *Protocol: How Control Exists after Decentralization*. Cambridge, MA: The MIT Press**.
 
-Although Galloway focusses on the technical description of the  architecture present in the network, he uses this as the basis to discuss its political and ideological ramifications. He argues that control, and not freedom, lies at the heart of the Internet's development and structure—particularly as embodies in the protocols that make the network possible. He goes on to describe the various cultures and communities that have developed around and in response to the nature of these protocols.
+Although Galloway focusses on the technical description of the  architecture present in the network, he uses this as the basis to discuss its political and ideological ramifications. He argues that control, and not freedom, lies at the heart of the Internet's development and structure—particularly as embodies in the protocols that make the network possible. He goes on to describe the various cultures and communities that have developed around, and in response to, the nature of these protocols.
 
 - - -
 
@@ -62,7 +62,7 @@ Harvey's book served as a historical and ideological overview of  neoliberalism,
 
 **Horning, R. (2012) Hi Haters!. *The New Inquiry*, Available at: http://thenewinquiry.com/essays/hi-haters [Accessed: 30 Nov 2012].**
 
-Horning's opinion piece on the social-media-fuelled trends of micro fame, self-marketing, and self-surveillance. He draws links between them and neoliberalism, which served as starting points for some of my writing on the commodification of the individual. 
+Horning's opinion piece covers the social-media-fuelled trends of micro fame, self-marketing, and self-surveillance. He draws links between them and neoliberalism, which served as starting points for some of my writing on the commodification of the individual. 
 
 - - -
 
@@ -74,19 +74,19 @@ See Varnelis, K. below.
 
 **Lanier, J. (2011) *You Are Not a Gadget: A Manifesto*. New York: Vintage.**
 
-Lanier, a computer scientist and pioneer of early digital media, critiques the role of digital design and its influence on society, particularly as embodied in the ideals of Web 2.0. He offers a counter-argument to my central thesis, suggesting that in social media we see an elevation of the "wisdom of the crowd," collectivismd and the hive mind, over the "importance and uniqueness of the individual voice."
+Lanier, a computer scientist and pioneer of early digital media, critiques the role of digital design and its influence on society, particularly as embodied in the ideals of Web 2.0. He offers a counter-argument to my central thesis, suggesting that in social media we see an elevation of the "wisdom of the crowd," collectivism and the hive mind, over the "importance and uniqueness of the individual voice."
 
 - - -
 
 **Macpherson, C.B. (1962) *The Political Theory of Possessive Individualism*. Oxford: Clarendon Press.**
 
-Macpherson's possessive individualism, defined as "those deeply internalized habits of thinking and feeling" whereby we view "everything around [us] primarily as actual or potential commercial property." He examines how this kind of individuals functions in the work of philosophers including Hobbes and Locke, and as a result pervades in the influence of liberalism from that point on. Macpherson's individual understands themselves, their skills, and those of others as a commodity to be bought and sold on the open market. At the core of possessive individualism lies an insatiable thirst for selfish consumption, which is considered central to human nature.
+Macpherson's possessive individualism is defined as "those deeply internalized habits of thinking and feeling" whereby we view "everything around [us] primarily as actual or potential commercial property." He examines how this kind of individualism functions in the work of philosophers including Hobbes and Locke, and as a result pervades in the influence of liberalism from that point on. Macpherson's individual understands themselves, their skills, and those of others as a commodity to be bought and sold on the open market. At the core of possessive individualism lies an insatiable thirst for selfish consumption, which is considered central to human nature.
 
 - - -
 
 **Manovich, L. (2009) The Practice of Everyday (Media) Life: From Mass Consumption to Mass Cultural Production?. *Critical Inquiry*, 35 (2), p.319-331.**
 
-Discussing the "the explosion of user-created media content on the web" that he understands as the move "from media to social media," Manovich examines user-generated content by applying de Certeau's distinction "between strategies used by institutions and power structures and tactics used by modern subjects in their everyday lives." He discusses the changes that have taken places since de Certeau published his work, suggesting that "strategies and tactics are now often closely linked in an interactive relationship, and often their features are reversed." Because the strategies of social media are increasingly flexibility (e.g. allowing greater user customisation), Manovich interprets this as appearing more like tactics. I disagree, interpreting this as a strategy for encouraging greater subjection to control. 
+Discussing "the explosion of user-created media content on the web" that he understands as the move "from media to social media," Manovich examines user-generated content by applying de Certeau's distinction "between strategies used by institutions and power structures and tactics used by modern subjects in their everyday lives." He discusses the changes that have taken places since de Certeau published his work, suggesting that "strategies and tactics are now often closely linked in an interactive relationship, and often their features are reversed." Because the strategies of social media are increasingly flexible (e.g. allowing greater user customisation), Manovich interprets this as appearing more like tactics. I disagree, interpreting this as a strategy for encouraging greater subjection to control. 
 
 - - -
 
