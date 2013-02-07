@@ -7,9 +7,9 @@ As you read, please edit/respond/disagree (making edits inline on [Google Docs](
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-- [Part I - Introduction](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20I%20-%20Introduction.md#readme)
-- [Part II - Individualism](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20II%20-%20Individualism.md#readme)
-- [Part III - Strategies](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20III%20-%20Strategies.md#readme)
-- [Part IV - Tactics](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20IV%20-%20Tactics.md#readme)
-- [Part V - Conclusion](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20Part%20V%20-%20Conclusion.md#readme)
-- [Annotated Bibliography](/johndryan/thesis/blob/master/Thesis%20Paper%20-%20References.md#readme)
+- [Part I - Introduction](Thesis%20Paper%20-%20Part%20I%20-%20Introduction.md#readme)
+- [Part II - Individualism](Thesis%20Paper%20-%20Part%20II%20-%20Individualism.md#readme)
+- [Part III - Strategies](Thesis%20Paper%20-%20Part%20III%20-%20Strategies.md#readme)
+- [Part IV - Tactics](Thesis%20Paper%20-%20Part%20IV%20-%20Tactics.md#readme)
+- [Part V - Conclusion](Thesis%20Paper%20-%20Part%20V%20-%20Conclusion.md#readme)
+- [Annotated Bibliography](Thesis%20Paper%20-%20References.md#readme)
